@@ -1,4 +1,4 @@
 electricimp-ntc-xively
 ======================
 
-Pushes NTC measurements to Xively
+Pushes NTC measurements from an electric IMP to Xively
